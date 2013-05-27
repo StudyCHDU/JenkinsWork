@@ -1,0 +1,34 @@
+﻿Build started 04/04/2012 18:29:57.
+     1>Project "d:\KursRob\KursRob\KursRob.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\KursRob.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\KursRob.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainDlg.cpp
+         MainDlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\KursRob\Debug\KursRob.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\KursRob.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\KursRob\Debug\KursRob.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\KursRob\Debug\KursRob.lib" /MACHINE:X86 Debug\KursRob.res
+         Debug\KursRob.exe.embed.manifest.res
+         Debug\Add.obj
+         Debug\KursRob.obj
+         Debug\MainDlg.obj
+         Debug\Search.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\KursRob.exe.embed.manifest" /manifest Debug\KursRob.exe.intermediate.manifest "c:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         KursRob.vcxproj -> D:\KursRob\Debug\KursRob.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\KursRob.unsuccessfulbuild".
+         Touching "Debug\KursRob.lastbuildstate".
+     1>Done Building Project "d:\KursRob\KursRob\KursRob.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
